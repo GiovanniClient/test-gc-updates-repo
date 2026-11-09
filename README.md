@@ -1,2 +1,2 @@
 # test-the-fucking-updates-repo
-please ignore im testing stuff
+mock repo to test giovanniclient's update checker
